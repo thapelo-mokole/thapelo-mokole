@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Advanced Microservice Architecture
 - 📫 How to reach me thapelomokole@gmail.com
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- 
+
 <!---
 Thiblosh/Thiblosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thiblosh&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaDhruv&show_icons=true)](https://github.com/Thiblosh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiblosh&show_icons=true)](https://github.com/Thiblosh/github-readme-stats)
 
 <!-- [website]: https://balamurugan.dev/
 [chat-app]: https://chaty---chat-with-strangers.firebaseapp.com/splash
