@@ -49,12 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thapelo-mokole&show_icons=true)](https://github.com/thapelo-mokole/github-readme-stats)
 
-Let's connect
-* Discord: thiblosh
-* <img
-  src="https://raw.githubusercontent.com/thapelo-mokole/thapelo-mokole/main/Vanilla-1s-280px.gif"
-  style="width: 100%">
-  
+ 
 <!-- [website]: https://balamurugan.dev/
 [chat-app]: https://chaty---chat-with-strangers.firebaseapp.com/splash
 [flg]: https://github.com/BalaDhruv/Flutter_Redux_Gen
