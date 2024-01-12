@@ -1,11 +1,11 @@
-### Hi there, I'm Thapelo - aka [@Thiblosh]
+### Hi there, I'm Thapelo
 
 - 👋 Hi, I’m @Thiblosh
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on Advanced Microservice Architecture
 - 📫 How to reach me thapelomokole@gmail.com
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <!---
 Thiblosh/Thiblosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
