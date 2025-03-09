@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning the ELK Stack
 - 💞️ I’m looking to collaborate on Advanced Microservice Architecture
 - 📫 How to reach me thapelomokole@gmail.com
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 <!---
 Thiblosh/Thiblosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
